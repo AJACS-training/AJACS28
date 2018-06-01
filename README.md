@@ -30,9 +30,9 @@
 
 13:20～14:20　[NBDCの三大サービス（カタログ、横断検索、アーカイブ）の紹介　櫛田達矢（NBDC）](https://github.com/AJACS-training/AJACS28/blob/master/02_kushida/)
 
-14:40～15:20　[DBCLSの活動の紹介](https://github.com/AJACS-training/AJACS28/blob/master/03_kono/)　河野信（DBCLS）
+14:40～15:20　[DBCLSの活動の紹介](https://github.com/AJACS-training/AJACS28/blob/master/03_kawano/)　河野信（DBCLS）
 
-15:20～16:10　[[BodyParts3D/アナトモグラフィーの使い方>./fujieda]]　藤枝香（DBCLS）
+15:20～16:10　[BodyParts3D/アナトモグラフィーの使い方](https://github.com/AJACS-training/AJACS28/blob/master/04_fujieda/)　藤枝香（DBCLS）
 
 
-16:20～17:50　[[DBCLS Galaxy/TogoDBの使い方>./atsuko]]　山口敦子（DBCLS）
+16:20～17:50　[DBCLS Galaxy/TogoDBの使い方](https://github.com/AJACS-training/AJACS28/blob/master/05_yamaguchi/)　山口敦子（DBCLS）
