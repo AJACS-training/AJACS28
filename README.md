@@ -26,7 +26,7 @@
 
 
 ### プログラム
-13:00～13:20　[ライフサイエンスデータベース統合推進事業の取り組み　坂東明日佳（NBDC)](http://motdb.dbcls.jp/?plugin=attach&pcmd=open&file=AJACS28_120210_bando.pdf&refer=AJACS28)
+13:00～13:20　[ライフサイエンスデータベース統合推進事業の取り組み　坂東明日佳（NBDC)](https://github.com/AJACS-training/AJACS28/blob/master/01_bando/)
 
 13:20～14:20　[[NBDCの三大サービス（カタログ、横断検索、アーカイブ）の紹介　櫛田達矢（NBDC）>http://motdb.dbcls.jp/?plugin=attach&pcmd=open&file=AJACS28_Kushida.pdf&refer=AJACS28]] 
 
