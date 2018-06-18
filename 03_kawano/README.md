@@ -1,6 +1,9 @@
-<h2>AJACS28/taro</a></h2>
+<h2><span class="date"><a href="http://MotDB.DBCLS.jp/?plugin=related&amp;page=AJACS28%2Ftaro">AJACS28/taro</a> </span>
+    <span class="title"></span></h2>
 
-
+<div class="body">
+	<div class="section">
+<p><a href="http://MotDB.DBCLS.jp/?AJACS28" title="AJACS28 (2319d)">AJACS28</a>のページに戻る</p>
 <div class="contents">
 <a id="contents_1"></a>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="#t6cbfacb"> ライフサイエンス統合データベースセンター（DBCLS）の活動の紹介 </a>
@@ -21,50 +24,50 @@
 </div>
 
 <hr class="full_hr" />
-<h3 id="content_1_0"><a id="t6cbfacb" href="http://MotDB.DBCLS.jp/?AJACS28%2Ftaro#t6cbfacb" title="t6cbfacb"><span class="sanchor">_</span></a> ライフサイエンス統合データベースセンター（DBCLS）の活動の紹介  </h3>
+<h3 id="content_1_0"><a id="t6cbfacb" href="" title="t6cbfacb"><span class="sanchor">_</span></a> ライフサイエンス統合データベースセンター（DBCLS）の活動の紹介  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>ライフサイエンス統合データベースセンターのホームページ
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li><a href="http://dbcls.rois.ac.jp/" rel="nofollow">http://dbcls.rois.ac.jp/</a></li></ul></li>
 <li>DBCLSが提供するサービスのホームページ（統合データベースプロジェクトのページ）
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li><a href="http://lifesciencedb.jp/" rel="nofollow">http://lifesciencedb.jp/</a></li></ul></li></ul>
 
-<h3 id="content_1_1"><a id="qed40a6e" href="http://MotDB.DBCLS.jp/?AJACS28%2Ftaro#qed40a6e" title="qed40a6e">_</a> 統合TV  </h3>
+<h3 id="content_1_1"><a id="qed40a6e" href="" title="qed40a6e">_</a> 統合TV  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://togotv.dbcls.jp/" rel="nofollow">http://togotv.dbcls.jp/</a></li>
 <li>統合TV curated: <a href="http://togotv-curated.dbcls.jp/" rel="nofollow">http://togotv-curated.dbcls.jp/</a></li></ul>
 
-<h3 id="content_1_2"><a id="w4319a92" href="http://MotDB.DBCLS.jp/?AJACS28%2Ftaro#w4319a92" title="w4319a92">_</a> ライフサイエンス新着論文レビュー  </h3>
+<h3 id="content_1_2"><a id="w4319a92" href="" title="w4319a92">_</a> ライフサイエンス新着論文レビュー  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://first.lifesciencedb.jp/" rel="nofollow">http://first.lifesciencedb.jp/</a></li>
 <li>統合TV: <a href="http://togotv.dbcls.jp/20110301.html#p01" rel="nofollow">http://togotv.dbcls.jp/20110301.html#p01</a></li>
 <li>編集長・飯田による講義: <a href="http://togotv.dbcls.jp/20120202.html#p01" rel="nofollow">http://togotv.dbcls.jp/20120202.html#p01</a></li></ul>
 
-<h3 id="content_1_3"><a id="d01619da" href="http://MotDB.DBCLS.jp/?AJACS28%2Ftaro#d01619da" title="d01619da">_</a> 医学・薬学予稿集全文データベース  </h3>
+<h3 id="content_1_3"><a id="d01619da" href="" title="d01619da">_</a> 医学・薬学予稿集全文データベース  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://togodb.dbcls.jp/yokou/" rel="nofollow">http://togodb.dbcls.jp/yokou/</a></li></ul>
 
-<h3 id="content_1_4"><a id="ae79fdb6" href="http://MotDB.DBCLS.jp/?AJACS28%2Ftaro#ae79fdb6" title="ae79fdb6">_</a> Togo Picture Gallery  </h3>
+<h3 id="content_1_4"><a id="ae79fdb6" href="" title="ae79fdb6">_</a> Togo Picture Gallery  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://g86.dbcls.jp/~togoriv/" rel="nofollow">http://g86.dbcls.jp/~togoriv/</a></li></ul>
 
-<h3 id="content_1_5"><a id="e042bd2a" href="http://MotDB.DBCLS.jp/?AJACS28%2Ftaro#e042bd2a" title="e042bd2a">_</a> Allie  </h3>
+<h3 id="content_1_5"><a id="e042bd2a" href="" title="e042bd2a">_</a> Allie  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://allie.dbcls.jp/" rel="nofollow">http://allie.dbcls.jp/</a></li>
 <li>統合TV: <a href="http://togotv.dbcls.jp/20100831.html#p01" rel="nofollow">http://togotv.dbcls.jp/20100831.html#p01</a></li>
 <li>【実習】いろいろな略語の展開形を調べてみましょう
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li>例: iPS, SPF, ER, CT, PCR</li></ul></li></ul>
 
-<h3 id="content_1_6"><a id="hc646587" href="http://MotDB.DBCLS.jp/?AJACS28%2Ftaro#hc646587" title="hc646587">_</a> inMeXes  </h3>
+<h3 id="content_1_6"><a id="hc646587" href="" title="hc646587">_</a> inMeXes  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://docman.dbcls.jp/im/" rel="nofollow">http://docman.dbcls.jp/im/</a></li>
 <li>統合TV: <a href="http://togotv.dbcls.jp/20091216.html#p01" rel="nofollow">http://togotv.dbcls.jp/20091216.html#p01</a></li>
 <li>【実習】いろいろな英語表現を検索してみましょう
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li>例: information に続く前置詞、in conjugation に続く前置詞、in regard に続く前置詞</li></ul></li></ul>
 
-<h3 id="content_1_7"><a id="z3fbeaae" href="http://MotDB.DBCLS.jp/?AJACS28%2Ftaro#z3fbeaae" title="z3fbeaae">_</a> DNAデータベース (DDBJ/EMBL/GenBank=INSD) 総覧と検索  </h3>
+<h3 id="content_1_7"><a id="z3fbeaae" href="" title="z3fbeaae">_</a> DNAデータベース (DDBJ/EMBL/GenBank=INSD) 総覧と検索  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://lifesciencedb.jp/ddbj/" rel="nofollow">http://lifesciencedb.jp/ddbj/</a></li>
 <li>統合TV: <a href="http://togotv.dbcls.jp/20091022.html#p01" rel="nofollow">http://togotv.dbcls.jp/20091022.html#p01</a></li>
 <li>統合TV: <a href="http://togotv.dbcls.jp/20091031.html#p01" rel="nofollow">http://togotv.dbcls.jp/20091031.html#p01</a></li>
 <li>【実習】: 「植物」の「mRNA」を調べたプロジェクトの中で最もデータの登録件数が多いものは登録件数が何件あるでしょうか？</li></ul>
 
-<h3 id="content_1_8"><a id="lafcfd99" href="http://MotDB.DBCLS.jp/?AJACS28%2Ftaro#lafcfd99" title="lafcfd99">_</a> 遺伝子発現バンク(GEO)目次  </h3>
+<h3 id="content_1_8"><a id="lafcfd99" href="" title="lafcfd99">_</a> 遺伝子発現バンク(GEO)目次  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://lifesciencedb.jp/geo/" rel="nofollow">http://lifesciencedb.jp/geo/</a></li>
 <li>統合TV: <a href="http://togotv.dbcls.jp/20100326.html#p01" rel="nofollow">http://togotv.dbcls.jp/20100326.html#p01</a></li></ul>
 
-<h3 id="content_1_9"><a id="w6fa1780" href="http://MotDB.DBCLS.jp/?AJACS28%2Ftaro#w6fa1780" title="w6fa1780">_</a> SRAs: Survey of Read Archives  </h3>
+<h3 id="content_1_9"><a id="w6fa1780" href="" title="w6fa1780">_</a> SRAs: Survey of Read Archives  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://sra.dbcls.jp/" rel="nofollow">http://sra.dbcls.jp/</a></li>
 <li>次世代シーケンサデータのデータ構造
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li><a href="http://trace.ddbj.nig.ac.jp/dra/documentation.shtml" rel="nofollow">http://trace.ddbj.nig.ac.jp/dra/documentation.shtml</a></li></ul></li>
@@ -75,12 +78,12 @@
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li>Exps や Runs をクリックして sortしてみる</li></ul></li>
 <li>【実習】興味のある「Study Types」、「Platform」、「Species of samples」をクリックしてどんなプロジェクトがあるか見てみましょう</li></ul>
 
-<h3 id="content_1_10"><a id="l5041bd8" href="http://MotDB.DBCLS.jp/?AJACS28%2Ftaro#l5041bd8" title="l5041bd8">_</a> 鎖鋸  </h3>
+<h3 id="content_1_10"><a id="l5041bd8" href="" title="l5041bd8">_</a> 鎖鋸  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://g86.dbcls.jp/kusarinoko" rel="nofollow">http://g86.dbcls.jp/kusarinoko</a></li>
 <li>【実習】鎖鋸をつかってみる
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li>hypoxia で検索</li></ul></li></ul>
 
-<h3 id="content_1_11"><a id="t64720ca" href="http://MotDB.DBCLS.jp/?AJACS28%2Ftaro#t64720ca" title="t64720ca">_</a> GGRNA  </h3>
+<h3 id="content_1_11"><a id="t64720ca" href="" title="t64720ca">_</a> GGRNA  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://ggrna.dbcls.jp/" rel="nofollow">http://ggrna.dbcls.jp/</a></li>
 <li><a href="http://togotv.dbcls.jp/20120124.html#p01" rel="nofollow">http://togotv.dbcls.jp/20120124.html#p01</a></li>
 <li>【実習】簡単な検索例
@@ -97,7 +100,7 @@
 <li>【実習】マイクロアレイのプローブ配列の位置を調べる
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li>「1552311_a_at」等プローブIDを入力する</li></ul></li></ul>
 
-<h3 id="content_1_12"><a id="ffa20b71" href="http://MotDB.DBCLS.jp/?AJACS28%2Ftaro#ffa20b71" title="ffa20b71">_</a> RefEx  </h3>
+<h3 id="content_1_12"><a id="ffa20b71" href="" title="ffa20b71">_</a> RefEx  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://refex.dbcls.jp/" rel="nofollow">http://refex.dbcls.jp/</a></li>
 <li>統合TV: <a href="http://togotv.dbcls.jp/20100618.html#p01" rel="nofollow">http://togotv.dbcls.jp/20100618.html#p01</a></li>
 <li>【実習】アルブミンの各臓器での発現量を調べる
@@ -111,10 +114,10 @@
 <li>【問題】Gene Chipのデータでアルブミン遺伝子がもっとも高発現している臓器はどこか？</li>
 <li>実際のデータは「Download」から取得可能</li></ul>
 
-<h3 id="content_1_13"><a id="g6667f40" href="http://MotDB.DBCLS.jp/?AJACS28%2Ftaro#g6667f40" title="g6667f40">_</a> LSQA  </h3>
+<h3 id="content_1_13"><a id="g6667f40" href="" title="g6667f40">_</a> LSQA  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://qa.lifesciencedb.jp/" rel="nofollow">http://qa.lifesciencedb.jp/</a></li></ul>
 
-<h3 id="content_1_14"><a id="l1adae5f" href="http://MotDB.DBCLS.jp/?AJACS28%2Ftaro#l1adae5f" title="l1adae5f"><span class="sanchor">_</span></a> クリエイティブ・コモンズ  </h3>
+<h3 id="content_1_14"><a id="l1adae5f" href="" title="l1adae5f"><span class="sanchor">_</span></a> クリエイティブ・コモンズ  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://creativecommons.jp/" rel="nofollow">http://creativecommons.jp/</a></li>
 <li>統合TV: <a href="http://togotv.dbcls.jp/20100218.html#p01" rel="nofollow">http://togotv.dbcls.jp/20100218.html#p01</a></li>
 <li>統合TV (クリエイティブ・コモンズ・ジャパン 野口祐子 弁護士による講演): <a href="http://togotv.dbcls.jp/20100526.html#p01" rel="nofollow">http://togotv.dbcls.jp/20100526.html#p01</a></li></ul>
