@@ -16,21 +16,21 @@
 </div>
 
 <hr class="full_hr" />
-<h3 id="content_1_0"><a id="vd6d6235" href="http://MotDB.DBCLS.jp/?AJACS28%2Ffujieda#vd6d6235" title="vd6d6235"><span class="sanchor">_</span></a> BodyParts3D/Anatomographyとは  </h3>
+<h3 id="content_1_0"><a id="vd6d6235" href="" title="vd6d6235"><span class="sanchor">_</span></a> BodyParts3D/Anatomographyとは  </h3>
 <p>BodyParts3D(ボディパーツ3D)は人体各部位の位置や形状を3次元モデルで記述したデータベースです。Anatomography(アナトモグラフィー)を使って、BodyParts3Dから解剖学用語を選択して自由に人体のモデル図を作成できます。</p>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_1"><a id="da6d0127" href="http://MotDB.DBCLS.jp/?AJACS28%2Ffujieda#da6d0127" title="da6d0127"><span class="sanchor">_</span></a> BodyParts3D/Anatomographyの場所  </h3>
+<h3 id="content_1_1"><a id="da6d0127" href="" title="da6d0127"><span class="sanchor">_</span></a> BodyParts3D/Anatomographyの場所  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://lifesciencedb.jp" rel="nofollow">統合データベースプロジェクト</a>の「ツール＆解析サービス」から。</li>
 <li><a href="http://lifesciencedb.jp/bp3d" rel="nofollow">トップページURL (http://lifesciencedb.jp/bp3d)</a></li>
 <li><a href="http://www.google.co.jp/search?q=BodyParts3D&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;hl=ja&amp;client=firefox-a&amp;rlz=1R1GGGL_ja___JP322" rel="nofollow">「BodyParts3D or Anatomography or アナトモグラフィー」でgoogle検索</a></li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_2"><a id="j358ae2f" href="http://MotDB.DBCLS.jp/?AJACS28%2Ffujieda#j358ae2f" title="j358ae2f"><span class="sanchor">_</span></a> 【実習1】基本的な操作手順を覚える  </h3>
+<h3 id="content_1_2"><a id="j358ae2f" href="" title="j358ae2f"><span class="sanchor">_</span></a> 【実習1】基本的な操作手順を覚える  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>「Information」タブ→「ユーザガイド」→「<a href="http://lifesciencedb.jp/bp3d/info/userGuide/gettingStarted/index.html" rel="nofollow">Getting Started</a>」をひと通り実施します。</li></ul>
 <p>他：pin、Legend、格子について</p>
 <p>　詳しくは、【統合TV】
 <a href="http://togotv.dbcls.jp/20111130.html#p01" rel="nofollow">http://togotv.dbcls.jp/20111130.html#p01</a>を参照してください。</p>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_3"><a id="q8b55583" href="http://MotDB.DBCLS.jp/?AJACS28%2Ffujieda#q8b55583" title="q8b55583"><span class="sanchor">_</span></a> 【実習2】ヒートマップをつくる  </h3>
+<h3 id="content_1_3"><a id="q8b55583" href="" title="q8b55583"><span class="sanchor">_</span></a> 【実習2】ヒートマップをつくる  </h3>
 <p><strong>方法1</strong>：臓器別数値を臓器ごとに手入力する</p>
 <p>　　　　心臓　1500</p>
 <p>　　　　小腸　1200</p>
@@ -72,4 +72,4 @@
 <a href="http://lifesciencedb.jp/bp3d/IM/image.cgi?shorten=9rqy0zuCiGbGzSb4PTGH99Pz" rel="nofollow">作製済みマップのリンク2臓器のみ</a>、<a href="http://lifesciencedb.jp/bp3d/IM/image.cgi?shorten=THPb0fL5zKPvP19LjuO11z09" rel="nofollow">作製済みマップのリンク2骨格を挿入</a></li></ol>
 <p>　　（全身を表示したいときは、骨格系や皮膚を挿入する。）</p>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_4"><a id="e59335d2" href="http://MotDB.DBCLS.jp/?AJACS28%2Ffujieda#e59335d2" title="e59335d2"><span class="sanchor">_</span></a> 【実習３】質問コーナー！作りたい画像をつくってみてください！ </h3>
+<h3 id="content_1_4"><a id="e59335d2" href="" title="e59335d2"><span class="sanchor">_</span></a> 【実習３】質問コーナー！作りたい画像をつくってみてください！ </h3>
