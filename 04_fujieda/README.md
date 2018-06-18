@@ -73,3 +73,5 @@
 <p>　　（全身を表示したいときは、骨格系や皮膚を挿入する。）</p>
 
 <h3 id="content_1_4"><a id="e59335d2" href="" title="e59335d2"><span class="sanchor">_</span></a> 【実習３】質問コーナー！作りたい画像をつくってみてください！ </h3>
+<h3 id="content_1_5"><a id="l9cb2248" href="" title="l9cb2248"><span class="sanchor">_</span></a> 講習会資料(pdf)ダウンロード  </h3>
+<div class="img_margin" style="text-align:left"><a href="AjacsHongo10_120210.pdf" title="2012/02/13 12:27:46 4093.3KB"><img src="image/file.png" width="20" height="20" alt="file" style="border-width:0px" />Ajacs本郷10_120210.pdf</a></div>
