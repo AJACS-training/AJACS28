@@ -37,4 +37,4 @@
 
 16:20～17:50　[DBCLS Galaxy/TogoDBの使い方](https://github.com/AJACS-training/AJACS28/blob/master/05_yamaguchi/)　山口敦子（DBCLS）
 
-%[AJACS28.png]
+![AJACS28ポスター](AJACS28.png)
